@@ -1,13 +1,16 @@
 {
-  "name": "arc-example-login-flow",
+  "name": "arc-example-auth",
   "version": "1.0.0",
-  "author": "Brian LeRoux <b@brian.io>",
+  "author": "Fil Maj <me@filmaj.ca>",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arc-repos/arc-example-login-flow"
+    "url": "https://github.com/filmaj/arc-example-auth"
   },
   "dependencies": {
-    "@architect/architect": "^4.1.0"
+    "@architect/architect": "^4.1.0",
+    "@architect/data": "^2.0.9",
+    "@architect/functions": "^1.11.1",
+    "@architect/workflows": "^3.6.0"
   }
 }
