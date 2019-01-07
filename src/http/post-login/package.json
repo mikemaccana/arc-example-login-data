@@ -1,7 +1,8 @@
 {
-  "name": "loginflow-post-login",
+  "name": "arcauth-post-login",
   "dependencies": {
-    "@architect/data": "^2.0.8",
-    "@architect/functions": "^1.9.12"
+    "@architect/data": "^2.0.9",
+    "@architect/functions": "^1.11.1",
+    "bcrypt": "^3.0.3"
   }
 }
