@@ -16,5 +16,14 @@ Demonstrates:
     npm i
     npx sandbox
 
-Then visit the URL presented, signup, add some notes, view/edit your notes,
-logout, log back in, you still have your notes!
+Then for Unix:
+
+    NODE_ENV=testing
+    ARC_LOCAL=1 
+
+Or for Windows using powershell:
+
+    $env:NODE_ENV = 'testing'
+    $env:ARC_LOCAL = '1'
+
+Then visit the URL presented, signup, add some notes, view/edit your notes, logout, log back in, you still have your notes!
