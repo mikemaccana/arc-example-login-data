@@ -11,6 +11,5 @@
     "@architect/architect": "^4.1.0",
     "@architect/data": "^2.0.9",
     "@architect/functions": "^1.11.1",
-    "@architect/workflows": "^3.6.0"
   }
 }
