@@ -11,5 +11,7 @@
     "@architect/architect": "^4.4.12",
     "@architect/data": "^2.0.9",
     "@architect/functions": "^1.11.1",
+    "bcrypt": "^3.0.3",
+    "hashids": "^1.2.2"
   }
 }
