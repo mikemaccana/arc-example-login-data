@@ -8,7 +8,7 @@
     "url": "https://github.com/filmaj/arc-example-auth"
   },
   "dependencies": {
-    "@architect/architect": "^4.1.0",
+    "@architect/architect": "^4.4.12",
     "@architect/data": "^2.0.9",
     "@architect/functions": "^1.11.1",
   }
